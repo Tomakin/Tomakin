@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+Burak+Tomakin;Full-Stack+/+Backend+Developer&font=Fira%20Code&center=true&width=740&height=45&color=558ADA&vCenter=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hello+Welcome+to+my+Github+page;I+am+a+Full-Stack+Focused+.NET+Developer" alt="Typing SVG" />
 </p>
 
 <br>
