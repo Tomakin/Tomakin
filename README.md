@@ -22,7 +22,7 @@
     <tbody>
         <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'></td>
-            <td>Ben Burak Tomakin, 5+ yıllık Full-Stack / Backend ağırlıklı .NET geliştiricisiyim. Modern mimariler, temiz kod ve üretim kalitesi odaklı çalışıyorum. Backend tarafında ASP.NET Core MVC, Web API, Entity Framework, Microservices, DDD, CQRS, MediatR ve Onion Architecture gibi teknoloji ve desenlerle çalışıyorum. Frontend'de React, Vue.js ve JavaScript ekosisteminde deneyimliyim. DevOps alanında Docker, Kubernetes ve Linux (Arch & Mint) konularında kendimi geliştiriyorum. Self-hosted servisler (Immich, Jellyfin, Pi-hole) ve homelab ekosistemleriyle ilgileniyorum.</td>
+            <td>Ben Burak Tomakin, 6+ yıllık Full-Stack / Backend ağırlıklı .NET geliştiricisiyim. Modern mimariler, temiz kod ve üretim kalitesi odaklı çalışıyorum. Backend tarafında ASP.NET Core MVC, Web API, Entity Framework, Microservices, DDD, CQRS, MediatR ve Onion Architecture gibi teknoloji ve desenlerle çalışıyorum. Frontend'de React, Vue.js ve JavaScript ekosisteminde deneyimliyim. DevOps alanında Docker, Kubernetes ve Linux (Arch & Mint) konularında kendimi geliştiriyorum. Self-hosted servisler (Immich, Jellyfin, Pi-hole) ve homelab ekosistemleriyle ilgileniyorum.</td>
         </tr>
         <tr>
             <td><img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'></td>
