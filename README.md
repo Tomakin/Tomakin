@@ -26,7 +26,7 @@
         </tr>
         <tr>
             <td><img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'></td>
-            <td>I'm Burak Tomakin, a 5+ years experienced Full-Stack / Backend focused .NET developer. I focus on modern architectures, clean code, and production quality. On the backend, I work with ASP.NET Core MVC, Web API, Entity Framework, Microservices, DDD, CQRS, MediatR, and Onion Architecture. On the frontend, I'm experienced with React, Vue.js, and the JavaScript ecosystem. In DevOps, I'm developing my skills in Docker, Kubernetes, and Linux (Arch & Mint). I'm also interested in self-hosted services (Immich, Jellyfin, Pi-hole) and homelab ecosystems.</td>
+            <td>I'm Burak Tomakin, a 6+ years experienced Full-Stack / Backend focused .NET developer. I focus on modern architectures, clean code, and production quality. On the backend, I work with ASP.NET Core MVC, Web API, Entity Framework, Microservices, DDD, CQRS, MediatR, and Onion Architecture. On the frontend, I'm experienced with React, Vue.js, and the JavaScript ecosystem. In DevOps, I'm developing my skills in Docker, Kubernetes, and Linux (Arch & Mint). I'm also interested in self-hosted services (Immich, Jellyfin, Pi-hole) and homelab ecosystems.</td>
          </tr>
     </tbody>
 </table>
